@@ -1,0 +1,17 @@
+{
+  "name": "noflo-runtime-websocket",
+  "description": "WebSocket implementation of the NoFlo runtime",
+  "author": "Henri Bergius <henri.bergius@iki.fi>",
+  "version": "0.2.1",
+  "repo": "noflo/noflo-runtime-websocket",
+  "keywords": [
+  ],
+  "dependencies": {
+    "noflo/noflo-runtime-base": "*"
+  },
+  "scripts": [
+    "runtime/network.js"
+  ],
+  "main": "runtime/network.js",
+  "files": []
+}
